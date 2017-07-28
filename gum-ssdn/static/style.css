@@ -176,11 +176,11 @@ address { font-size:14px; margin-bottom:10px;}
 --------------------------------------------------------- */
 
 h1 a, h2 a, h3 a, h4 a, h5 a, h6 a {
-    color: #3498DB;
+    color: #d04526;
 }
 
-a, a:hover { color: #3498DB; }
-a:focus { color: #34495E; }
+a, a:hover { color: #c03d20; }
+a:focus { color: #d04526; }
 
 .btn a:hover, 
 .btn a:focus {color:#eee; }
@@ -204,7 +204,7 @@ ul.blank {
 
 /* Footer
 --------------------------------------------------------- */
-.bg { background:#eee; margin-top:35px; padding-top:25px; border-top:5px solid #3498DB; }
+.bg { background:#eee; margin-top:35px; padding-top:25px; border-top:5px solid #c03d20; }
 
 
 
