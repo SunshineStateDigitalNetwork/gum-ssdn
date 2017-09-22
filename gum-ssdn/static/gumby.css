@@ -1610,8 +1610,8 @@ img {
   border-radius: 0 500px 500px 0;
 }
 .btn.primary, .skiplink.primary {
-  background: #3085d6;
-  border: 1px solid #3085d6;
+  background: #339999;
+  border: 1px solid #339999;
 }
 .btn.primary:hover, .skiplink.primary:hover {
   background: #5b9ede;
